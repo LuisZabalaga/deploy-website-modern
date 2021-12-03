@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LuisZabalaga/deploy-website-modern/static/css/main.4a06a003.chunk.css",
+    "main.js": "/LuisZabalaga/deploy-website-modern/static/js/main.9aa476f1.chunk.js",
+    "main.js.map": "/LuisZabalaga/deploy-website-modern/static/js/main.9aa476f1.chunk.js.map",
+    "runtime-main.js": "/LuisZabalaga/deploy-website-modern/static/js/runtime-main.cd93c5b5.js",
+    "runtime-main.js.map": "/LuisZabalaga/deploy-website-modern/static/js/runtime-main.cd93c5b5.js.map",
+    "static/js/2.2e19e702.chunk.js": "/LuisZabalaga/deploy-website-modern/static/js/2.2e19e702.chunk.js",
+    "static/js/2.2e19e702.chunk.js.map": "/LuisZabalaga/deploy-website-modern/static/js/2.2e19e702.chunk.js.map",
+    "index.html": "/LuisZabalaga/deploy-website-modern/index.html",
+    "static/css/main.4a06a003.chunk.css.map": "/LuisZabalaga/deploy-website-modern/static/css/main.4a06a003.chunk.css.map",
+    "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/LuisZabalaga/deploy-website-modern/static/js/2.2e19e702.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/LuisZabalaga/deploy-website-modern/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/LuisZabalaga/deploy-website-modern/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/LuisZabalaga/deploy-website-modern/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/LuisZabalaga/deploy-website-modern/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/LuisZabalaga/deploy-website-modern/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/LuisZabalaga/deploy-website-modern/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.5114679f.svg": "/LuisZabalaga/deploy-website-modern/static/media/logo.5114679f.svg",
+    "static/media/people.5cd2d6fb.png": "/LuisZabalaga/deploy-website-modern/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/LuisZabalaga/deploy-website-modern/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd93c5b5.js",
+    "static/js/2.2e19e702.chunk.js",
+    "static/css/main.4a06a003.chunk.css",
+    "static/js/main.9aa476f1.chunk.js"
+  ]
+}
